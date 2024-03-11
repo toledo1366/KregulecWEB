@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KregulecWeb.API", "KregulecWeb.API\KregulecWeb.API.csproj", "{0FED292F-D112-4051-B107-24F905E0A0B2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KregulecWeb.APP", "KregulecWeb.APP\KregulecWeb.APP.csproj", "{AAE5293D-1FFE-4456-8A81-0B212118824D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KregulecWeb.APP", "KregulecWeb.APP\KregulecWeb.APP.csproj", "{5B21049E-CE51-4206-80CD-06F5A7A81F18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{0FED292F-D112-4051-B107-24F905E0A0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FED292F-D112-4051-B107-24F905E0A0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FED292F-D112-4051-B107-24F905E0A0B2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AAE5293D-1FFE-4456-8A81-0B212118824D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AAE5293D-1FFE-4456-8A81-0B212118824D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AAE5293D-1FFE-4456-8A81-0B212118824D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AAE5293D-1FFE-4456-8A81-0B212118824D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B21049E-CE51-4206-80CD-06F5A7A81F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B21049E-CE51-4206-80CD-06F5A7A81F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B21049E-CE51-4206-80CD-06F5A7A81F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B21049E-CE51-4206-80CD-06F5A7A81F18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
