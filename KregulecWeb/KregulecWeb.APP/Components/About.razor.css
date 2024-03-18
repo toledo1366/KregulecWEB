@@ -1,0 +1,24 @@
+.about {
+    background: #036233;
+    margin: 5px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    border-radius: 25px;
+    display: flex;
+}
+
+    .about p {
+        color: #d3bc2f;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: justify center;
+        font-size: 15px;
+    }
+
+    .about img {
+        height: 500px;
+        width: 500px;
+        margin: 5px;
+        align-content: center;
+    }
