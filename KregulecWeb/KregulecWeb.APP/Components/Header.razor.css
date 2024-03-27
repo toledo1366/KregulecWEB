@@ -9,9 +9,12 @@
     border-top: #036233;
     border-style: solid;
     border-width: medium;
+
 }
 
-    .header img{
+    .header img {
+        margin-inline-start: 15px;
+        margin-inline-end: 20px;
         width: 90px;
         height: 90px;
         display: flexbox;
